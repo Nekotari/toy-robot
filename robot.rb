@@ -1,4 +1,4 @@
-require_relative '../robot/engine.rb'
+require_relative 'engine.rb'
 
 class Robot
 include Engine
