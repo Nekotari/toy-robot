@@ -1,4 +1,4 @@
-require_relative '../robot/robot.rb'
+require_relative 'robot.rb'
 
 robot = Robot.new
 
